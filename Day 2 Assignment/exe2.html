@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hospital Appointment Booking</title>
+</head>
+<body>
+
+<header>
+    <h1>CityCare Hospital</h1>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Departments</a> |
+        <a href="#">Book Appointment</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Book an Appointment</h2>
+
+        <form action="#" method="post" enctype="multipart/form-data">
+
+            <label for="name">Full Name:</label><br>
+            <input type="text" id="name" name="name" required minlength="3">
+            <br><br>
+
+            <label for="age">Age:</label><br>
+            <input type="number" id="age" name="age" min="1" max="120" required>
+            <br><br>
+
+            <label for="phone">Phone Number:</label><br>
+            <input type="tel" id="phone" name="phone"
+                   pattern="[0-9]{10}"
+                   placeholder="Enter 10-digit number"
+                   required>
+            <br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required>
+            <br><br>
+
+            <label for="department">Department:</label><br>
+            <input list="dept-list" id="department" name="department" required>
+
+            <datalist id="dept-list">
+                <option value="Cardiology">
+                <option value="Neurology">
+                <option value="Orthopedics">
+                <option value="Pediatrics">
+                <option value="Dermatology">
+            </datalist>
+            <br><br>
+
+            <label for="doctor">Preferred Doctor:</label><br>
+            <input list="doctor-list" id="doctor" name="doctor" required>
+
+            <datalist id="doctor-list">
+                <option value="Dr. Sharma">
+                <option value="Dr. Mehta">
+                <option value="Dr. Rao">
+                <option value="Dr. Priya">
+            </datalist>
+            <br><br>
+
+            <label for="date">Appointment Date:</label><br>
+            <input type="date" id="date" name="date"
+                   min="2026-01-01"
+                   required>
+            <br><br>
+
+            <label for="time">Appointment Time:</label><br>
+            <input type="time" id="time" name="time" required>
+            <br><br>
+
+            <label>
+                <input type="checkbox" name="emergency"
+                       onclick="this.form.time.disabled=this.checked">
+                Emergency Case
+            </label>
+            <br><br>
+
+            <label for="reports">Upload Medical Reports:</label><br>
+            <input type="file" id="reports" name="reports"
+                   accept=".pdf,.jpg,.png"
+                   multiple required>
+            <br><br>
+
+            <input type="submit" value="Book Appointment">
+
+        </form>
+    </section>
+</main>
+
+<footer>
+    <address>
+        CityCare Hospital <br>
+        Phone: +91 9876543210 <br>
+        Email: support@citycare.com
+    </address>
+</footer>
+
+</body>
+</html>

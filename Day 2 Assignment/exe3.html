@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>E-Learning Course Registration</title>
+    <meta name="description" content="Online Certification Program Registration Portal">
+</head>
+<body>
+
+<header>
+    <h1>SkillUp Certification Program</h1>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Courses</a> |
+        <a href="#">Register</a>
+    </nav>
+</header>
+
+<main>
+
+    <section>
+        <h2>Course Introduction</h2>
+
+        <video width="600" controls poster="poster.jpg">
+            <source src="promo.mp4.mp4" type="video/mp4">
+            <source src="intro.webm" type="video/webm">
+            <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English" default>
+            Your browser does not support the video tag.
+        </video>
+    </section>
+
+    <section>
+        <h2>Register for Certification</h2>
+
+        <progress value="60" max="100"></progress>
+        <p>Enrollment Progress: 60%</p>
+
+        <form action="#" method="post">
+
+            <label for="name">Full Name:</label><br>
+            <input type="text" id="name" name="name" required minlength="3">
+            <br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required>
+            <br><br>
+
+            <label for="course">Select Course:</label><br>
+            <input list="course-list" id="course" name="course" required>
+
+            <datalist id="course-list">
+                <option value="Full Stack Web Development">
+                <option value="Data Science">
+                <option value="Cloud Computing">
+                <option value="Cyber Security">
+                <option value="AI & Machine Learning">
+            </datalist>
+            <br><br>
+
+            <label for="batch">Select Batch Month:</label><br>
+            <input type="month" id="batch" name="batch" required>
+            <br><br>
+
+            <label for="session">Preferred Session Timing:</label><br>
+            <input type="time" id="session" name="session" required>
+            <br><br>
+
+            <label for="skill">Rate Your Skill Level:</label><br>
+            Beginner
+            <input type="range" id="skill" name="skill" min="0" max="100" value="50">
+            Advanced
+            <br><br>
+
+            <input type="submit" value="Enroll Now">
+
+        </form>
+    </section>
+
+</main>
+
+<footer>
+    <address>
+        SkillUp Learning Platform <br>
+        Email: support@skillup.com <br>
+        Phone: +91 9876543210
+    </address>
+</footer>
+
+</body>
+</html>

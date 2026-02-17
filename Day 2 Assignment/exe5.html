@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online Savings Account Opening</title>
+    <meta name="description" content="Open your savings account online securely with ABC Digital Bank.">
+</head>
+<body>
+
+<header>
+    <h1>ABC Digital Bank</h1>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Services</a> |
+        <a href="#">Open Account</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Savings Account Opening Form</h2>
+
+        <form action="#" method="post" enctype="multipart/form-data">
+
+            <label for="fullname">Full Name:</label><br>
+            <input type="text" id="fullname" name="fullname" required minlength="3">
+            <br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required>
+            <br><br>
+
+            <label for="phone">Phone Number:</label><br>
+            <input type="tel" id="phone" name="phone"
+                   pattern="[0-9]{10}"
+                   placeholder="Enter 10-digit mobile number"
+                   required>
+            <br><br>
+
+            <label for="pan">PAN Number:</label><br>
+            <input type="text" id="pan" name="pan"
+                   pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}"
+                   placeholder="ABCDE1234F"
+                   required>
+            <br><br>
+
+            <label for="ifsc">IFSC Code:</label><br>
+            <input type="text" id="ifsc" name="ifsc"
+                   pattern="[A-Za-z]{4}[0-9]{7}"
+                   placeholder="ABCD1234567"
+                   required>
+            <br><br>
+
+            <label for="account">Account Type:</label><br>
+            <input list="account-types" id="account" name="account" required>
+
+            <datalist id="account-types">
+                <option value="Savings Account">
+                <option value="Current Account">
+                <option value="Salary Account">
+                <option value="Student Account">
+            </datalist>
+            <br><br>
+
+            <label for="dob">Date of Birth:</label><br>
+            <input type="date" id="dob" name="dob"
+                   max="2008-01-01"
+                   required>
+            <br><br>
+
+            <label for="income">Monthly Income (INR):</label><br>
+            <input type="number" id="income" name="income"
+                   min="0" step="500"
+                   required>
+            <br><br>
+
+            <label for="idproof">Upload ID Proof:</label><br>
+            <input type="file" id="idproof" name="idproof"
+                   accept=".pdf,.jpg,.png"
+                   required>
+            <br><br>
+
+            <input type="submit" value="Open Account">
+
+        </form>
+    </section>
+</main>
+
+<footer>
+    <address>
+        ABC Digital Bank <br>
+        Email: support@abcdigitalbank.com <br>
+        Phone: +91 9876543210
+    </address>
+</footer>
+
+</body>
+</html>
