@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration</title>
+</head>
+<body>
+
+<h1>Student Registration Form</h1>
+
+<form>
+    <table>
+
+        <tr>
+            <td><label for="name">Full Name:</label></td>
+            <td>
+                <input type="text" id="name" name="name" required>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label for="email">Email:</label></td>
+            <td>
+                <input type="email" id="email" name="email" required>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label for="phone">Phone Number:</label></td>
+            <td>
+                <input type="tel" id="phone" name="phone"
+                       pattern="[0-9]{10}"
+                       placeholder="10-digit number"
+                       required>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label for="age">Age:</label></td>
+            <td>
+                <input type="number" id="age" name="age"
+                       min="18" max="60" required>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label for="dob">Date of Birth:</label></td>
+            <td>
+                <input type="date" id="dob" name="dob" required>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Register">
+            </td>
+        </tr>
+
+    </table>
+</form>
+
+</body>
+</html>
+

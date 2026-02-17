@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Course Enrollment Form</title>
+</head>
+<body>
+
+<header>
+    <h1>Course Enrollment</h1>
+</header>
+
+<main>
+    <section>
+        <h2>Enroll Now</h2>
+
+        <form action="#" method="post">
+
+            <!-- Full Name -->
+            <label for="name">Full Name:</label><br>
+            <input type="text" id="name" name="name" required minlength="3">
+            <br><br>
+
+            <!-- Email -->
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required>
+            <br><br>
+
+            <!-- Course with datalist -->
+            <label for="course">Select Course:</label><br>
+            <input list="courses" id="course" name="course" required>
+            <datalist id="courses">
+                <option value="HTML">
+                <option value="CSS">
+                <option value="JavaScript">
+                <option value="React">
+                <option value="Python">
+            </datalist>
+            <br><br>
+
+            <!-- Age using number -->
+            <label for="age">Age:</label><br>
+            <input type="number" id="age" name="age" min="16" max="60" required>
+            <br><br>
+
+            <!-- Experience using range -->
+            <label for="experience">Years of Experience:</label><br>
+            <input type="range" id="experience" name="experience" min="0" max="10" value="2">
+            <br><br>
+
+            <!-- Skill Level using meter -->
+            <label>Skill Level:</label><br>
+            Beginner
+            <meter min="0" max="100" value="60">60%</meter>
+            Advanced
+            <br><br>
+
+            <!-- Enrollment Progress -->
+            <label>Enrollment Completion:</label><br>
+            <progress value="70" max="100">70%</progress>
+            <br><br>
+
+            <!-- Submit -->
+            <input type="submit" value="Enroll">
+
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>© 2026 Online Learning Platform</p>
+</footer>
+
+</body>
+</html>
