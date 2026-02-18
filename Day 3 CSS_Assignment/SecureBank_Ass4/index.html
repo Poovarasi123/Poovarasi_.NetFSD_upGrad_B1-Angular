@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SecureBank</title>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        .balance-highlight {
+            background: #e6fff2;
+            color: #006633;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div style="background:red; color:white; padding:10px; text-align:center;">
+    Warning: Unusual login activity detected
+</div>
+
+<header>
+    <h1>SecureBank Dashboard</h1>
+</header>
+
+<div class="container">
+
+    <aside class="sidebar">
+        <ul>
+            <li>Dashboard</li>
+            <li>Accounts</li>
+            <li>Transactions</li>
+            <li>Settings</li>
+        </ul>
+    </aside>
+
+    <main class="content">
+
+        <section class="cards">
+            <div class="card balance-highlight">
+                Account Balance: ₹50,000
+            </div>
+
+            <div class="card">
+                Savings Account: ₹30,000
+            </div>
+
+            <div class="card">
+                Current Account: ₹20,000
+            </div>
+        </section>
+
+        <section>
+            <h2>Recent Transactions</h2>
+            <table border="1" width="100%">
+                <tr>
+                    <th>Date</th>
+                    <th>Description</th>
+                    <th>Amount</th>
+                </tr>
+                <tr>
+                    <td>01/02/2026</td>
+                    <td>Grocery</td>
+                    <td class="debit">-₹500</td>
+                </tr>
+                <tr>
+                    <td>02/02/2026</td>
+                    <td>Salary</td>
+                    <td class="credit">+₹25,000</td>
+                </tr>
+                <tr>
+                    <td>03/02/2026</td>
+                    <td>Electricity Bill</td>
+                    <td class="debit">-₹1,200</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="login">
+            <h2>Login</h2>
+            <form>
+                <input type="text" placeholder="Username"><br><br>
+                <input type="password" placeholder="Password"><br><br>
+                <button>Login</button>
+            </form>
+        </section>
+
+    </main>
+</div>
+
+<footer>
+    <p>© 2026 SecureBank</p>
+</footer>
+
+</body>
+</html>
