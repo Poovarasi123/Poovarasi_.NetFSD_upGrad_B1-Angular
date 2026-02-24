@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mini Expense Tracker</title>
-    <style>
-        body { font-family: Arial; }
-        input { margin: 5px; }
-        button { margin: 5px; }
-        #expenseList { margin-top: 15px; }
-    </style>
+  <title>Mini Expense Tracker</title>
 </head>
 <body>
 
@@ -17,110 +11,83 @@
 <input type="number" id="amount" placeholder="Amount">
 <input type="date" id="date">
 
-<br>
-
 <button onclick="addExpense()">Add Expense</button>
 <button onclick="viewExpenses()">View Expenses</button>
-<button onclick="deleteExpenses()">Delete Expense</button>
 
-<h3>Expense List:</h3>
-<div id="expenseList"></div>
+<ul id="expenseList"></ul>
 
 <script>
+let db;
+let request = indexedDB.open("ExpenseDB", 1);
 
-// Open Database
-let db = openDatabase('ExpenseDB', '1.0', 'Expense Database', 2 * 1024 * 1024);
+request.onupgradeneeded = function(event) {
+  db = event.target.result;
+  db.createObjectStore("expenses", { keyPath: "id", autoIncrement: true });
+};
 
-// Create Table (Transaction Handling)
-db.transaction(function(tx) {
-    tx.executeSql(
-        'CREATE TABLE IF NOT EXISTS expenses (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, amount REAL, date TEXT)',
-        [],
-        function() { console.log("Table Created Successfully"); },
-        function(tx, error) { console.log("Table Creation Error: " + error.message); }
-    );
-});
+request.onsuccess = function(event) {
+  db = event.target.result;
+};
 
-// Add Expense (INSERT)
+request.onerror = function() {
+  alert("Database failed to open");
+};
+
 function addExpense() {
+  let title = document.getElementById("title").value;
+  let amount = document.getElementById("amount").value;
+  let date = document.getElementById("date").value;
 
-    let title = document.getElementById("title").value;
-    let amount = document.getElementById("amount").value;
-    let date = document.getElementById("date").value;
+  if (!title || !amount || !date) {
+    alert("Fill all fields");
+    return;
+  }
 
-    db.transaction(function(tx) {
+  let transaction = db.transaction(["expenses"], "readwrite");
+  let store = transaction.objectStore("expenses");
 
-        tx.executeSql(
-            'INSERT INTO expenses (title, amount, date) VALUES (?, ?, ?)',
-            [title, amount, date],
-            function() {
-                alert("Expense Added Successfully!");
-                viewExpenses();
-            },
-            function(tx, error) {
-                alert("Insert Error: " + error.message);
-            }
-        );
+  store.add({ title, amount, date });
 
-    }, function(error) {
-        alert("Transaction Error: " + error.message);
-    });
+  transaction.oncomplete = function() {
+    document.getElementById("title").value = "";
+    document.getElementById("amount").value = "";
+    document.getElementById("date").value = "";
+    viewExpenses();
+  };
+
+  transaction.onerror = function() {
+    alert("Transaction failed");
+  };
 }
 
-// View Expenses (SELECT)
 function viewExpenses() {
+  let transaction = db.transaction(["expenses"], "readonly");
+  let store = transaction.objectStore("expenses");
+  let request = store.getAll();
 
-    db.transaction(function(tx) {
+  request.onsuccess = function() {
+    let list = document.getElementById("expenseList");
+    list.innerHTML = "";
 
-        tx.executeSql(
-            'SELECT * FROM expenses',
-            [],
-            function(tx, results) {
-
-                let output = "";
-
-                for (let i = 0; i < results.rows.length; i++) {
-                    let row = results.rows.item(i);
-
-                    output += "<p>" +
-                        "Title: " + row.title +
-                        " | Amount: ₹" + row.amount +
-                        " | Date: " + row.date +
-                        "</p>";
-                }
-
-                document.getElementById("expenseList").innerHTML = output;
-            },
-            function(tx, error) {
-                alert("Select Error: " + error.message);
-            }
-        );
-
+    request.result.forEach(exp => {
+      let li = document.createElement("li");
+      li.innerHTML =
+        exp.title + " - ₹" + exp.amount + " - " + exp.date +
+        " <button onclick='deleteExpense(" + exp.id + ")'>Delete</button>";
+      list.appendChild(li);
     });
+  };
 }
 
-// Delete All Expenses (DELETE)
-function deleteExpenses() {
+function deleteExpense(id) {
+  let transaction = db.transaction(["expenses"], "readwrite");
+  let store = transaction.objectStore("expenses");
+  store.delete(id);
 
-    db.transaction(function(tx) {
-
-        tx.executeSql(
-            'DELETE FROM expenses',
-            [],
-            function() {
-                alert("All Expenses Deleted!");
-                viewExpenses();
-            },
-            function(tx, error) {
-                alert("Delete Error: " + error.message);
-            }
-        );
-
-    }, function(error) {
-        alert("Transaction Error: " + error.message);
-    });
+  transaction.oncomplete = function() {
+    viewExpenses();
+  };
 }
-
 </script>
 
 </body>
