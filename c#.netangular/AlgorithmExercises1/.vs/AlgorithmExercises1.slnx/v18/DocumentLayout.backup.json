@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|e:\\cts\\.net angular\\algorithmexercises1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9C1027-929C-4FAA-BC31-64E51DC515E7}|AlgorithmExercises1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise7.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise7.cs",
+              "RelativeDocumentMoniker": "Exercise7.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise7.cs",
+              "RelativeToolTip": "Exercise7.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:55:42.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercise6.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise6.cs",
+              "RelativeDocumentMoniker": "Exercise6.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise6.cs",
+              "RelativeToolTip": "Exercise6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:54:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercise5.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise5.cs",
+              "RelativeDocumentMoniker": "Exercise5.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise5.cs",
+              "RelativeToolTip": "Exercise5.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:54:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise4.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise4.cs",
+              "RelativeDocumentMoniker": "Exercise4.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise4.cs",
+              "RelativeToolTip": "Exercise4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:53:21.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise3.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise3.cs",
+              "RelativeDocumentMoniker": "Exercise3.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise3.cs",
+              "RelativeToolTip": "Exercise3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:51:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise2.cs",
+              "RelativeDocumentMoniker": "Exercise2.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise2.cs",
+              "RelativeToolTip": "Exercise2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:51:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise1.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise1.cs",
+              "RelativeDocumentMoniker": "Exercise1.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Exercise1.cs",
+              "RelativeToolTip": "Exercise1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:49:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\AlgorithmExercises1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:44:47.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
