@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add Event</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#f4f6fb;
+}
+
+/* Navbar */
+
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 60px;
+background:#2c3e50;
+color:white;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+font-size:18px;
+}
+
+/* Hero */
+
+.hero{
+height:220px;
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+url("https://images.unsplash.com/photo-1505373877841-8d25f7d46678");
+background-size:cover;
+display:flex;
+align-items:center;
+justify-content:center;
+color:white;
+}
+
+.hero h1{
+font-size:40px;
+}
+
+/* Form */
+
+.form-container{
+display:flex;
+justify-content:center;
+margin-top:40px;
+}
+
+form{
+background:white;
+padding:40px;
+border-radius:10px;
+width:400px;
+box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}
+
+input{
+width:100%;
+padding:10px;
+margin-bottom:15px;
+font-size:20px;
+}
+
+button{
+width:100%;
+padding:12px;
+background:#3498db;
+color:white;
+border:none;
+border-radius:5px;
+font-size:16px;
+cursor:pointer;
+}
+
+button:hover{
+background:#2980b9;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="navbar">
+<h2>EventSphere</h2>
+
+<div>
+<a href="index.html">Home</a>
+<a href="add-event.html">Add Event</a>
+</div>
+</div>
+
+<div class="hero">
+<h1>Create New Event</h1>
+</div>
+
+<div class="form-container">
+
+<form id="eventForm">
+
+<input type="text" id="title" placeholder="Event Title" required>
+
+<input type="text" id="description" placeholder="Description" required>
+
+<input type="date" id="date" required>
+
+<input type="text" id="location" placeholder="Location" required>
+
+<input type="number" id="capacity" placeholder="Capacity" required>
+
+<button type="submit">Save Event</button>
+
+</form>
+
+</div>
+
+<script type="module">
+
+import Event from "./js/models/Event.js";
+import { addEvent, getEventById, updateEvent } from "./js/services/eventService.js";
+
+const params = new URLSearchParams(window.location.search);
+const eventId = params.get("id");
+
+/* Edit mode */
+
+if(eventId){
+
+const event = await getEventById(eventId);
+
+title.value = event.title;
+description.value = event.description;
+date.value = event.date;
+location.value = event.location;
+capacity.value = event.capacity;
+
+}
+
+document.getElementById("eventForm").addEventListener("submit", async (e)=>{
+
+e.preventDefault();
+
+const event = new Event({
+
+title:title.value,
+description:description.value,
+date:date.value,
+location:location.value,
+capacity:Number(capacity.value),
+availableSeats:Number(capacity.value)
+
+});
+
+event.validate();
+
+if(eventId){
+
+await updateEvent(eventId,event);
+alert("Event Updated");
+
+}else{
+
+await addEvent(event);
+alert("Event Added");
+
+}
+
+window.location.href="index.html";
+
+});
+
+</script>
+
+</body>
+</html>

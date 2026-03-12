@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Register</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#f4f6fb;
+}
+
+/* Navbar */
+
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 60px;
+background:#2c3e50;
+color:white;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+font-size:18px;
+}
+
+/* Hero */
+
+.hero{
+height:220px;
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+url("https://images.unsplash.com/photo-1511578314322-379afb476865");
+background-size:cover;
+display:flex;
+align-items:center;
+justify-content:center;
+color:white;
+}
+
+.hero h1{
+font-size:40px;
+}
+
+/* Form */
+
+.form-container{
+display:flex;
+justify-content:center;
+margin-top:40px;
+}
+
+form{
+background:white;
+padding:40px;
+border-radius:10px;
+width:400px;
+box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}
+
+input{
+width:100%;
+padding:10px;
+margin-bottom:15px;
+font-size:20px;
+}
+
+button{
+width:100%;
+padding:12px;
+background:#3498db;
+color:white;
+border:none;
+border-radius:5px;
+font-size:20px;
+cursor:pointer;
+}
+
+button:hover{
+background:#2980b9;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="navbar">
+<h2>EventSphere</h2>
+
+<div>
+<a href="index.html">Home</a>
+</div>
+</div>
+
+<div class="hero">
+<h1>Register For Event</h1>
+</div>
+
+<div class="form-container">
+
+<form id="registerForm">
+
+<input type="text" id="name" placeholder="Your Name" required>
+
+<input type="email" id="email" placeholder="Email" required>
+
+<input type="text" id="phone" placeholder="Phone" required>
+
+<button type="submit">Register</button>
+
+</form>
+
+</div>
+
+<script type="module">
+
+import { addRegistration } from "./js/services/registrationService.js";
+
+const params=new URLSearchParams(window.location.search);
+const eventId=params.get("eventId");
+
+document.getElementById("registerForm").addEventListener("submit",async(e)=>{
+
+e.preventDefault();
+
+const registration={
+
+eventId:Number(eventId),
+name:name.value,
+email:email.value,
+phone:phone.value
+
+};
+
+await addRegistration(registration);
+
+alert("Registration successful!");
+
+window.location.href="index.html";
+
+});
+
+</script>
+
+</body>
+</html>

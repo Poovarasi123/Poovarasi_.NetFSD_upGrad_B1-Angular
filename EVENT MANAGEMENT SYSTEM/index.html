@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EventSphere</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#f4f6fb;
+}
+
+/* Navbar */
+
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 60px;
+background:#2c3e50;
+color:white;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+margin-left:25px;
+font-size:18px;
+}
+
+/* Hero section */
+
+.hero{
+height:300px;
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+url("https://images.unsplash.com/photo-1511578314322-379afb476865");
+background-size:cover;
+display:flex;
+align-items:center;
+justify-content:center;
+color:white;
+text-align:center;
+}
+
+.hero h1{
+font-size:45px;
+}
+
+/* Event section */
+
+.events-section{
+padding:50px;
+text-align:center;
+}
+
+.events-section h2{
+font-size:35px;
+margin-bottom:40px;
+}
+
+#eventContainer{
+display:flex;
+justify-content:center;
+gap:40px;
+flex-wrap:wrap;
+}
+
+/* Event card */
+
+.card{
+width:320px;
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 5px 20px rgba(0,0,0,0.1);
+text-align:left;
+}
+
+.card h3{
+font-size:27px;
+margin-bottom:10px;
+}
+
+.card p{
+font-size:20px;
+line-height:1.8;
+}
+
+/* Buttons */
+
+.btn{
+padding:8px 15px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+margin-top:10px;
+font-size:19px;
+}
+
+.register{
+background:#3498db;
+color:white;
+}
+
+.edit{
+background:#2ecc71;
+color:white;
+}
+
+.delete{
+background:#e74c3c;
+color:white;
+}
+
+.addEvent{
+color:white;
+background:#3498db;
+padding:10px 18px;
+border-radius:6px;
+text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- Navbar -->
+
+<div class="navbar">
+<h2>EventSphere</h2>
+
+<div>
+<a href="index.html">Home</a>
+<a href="add-event.html" class="addEvent">Add Event</a>
+</div>
+
+</div>
+
+<!-- Hero -->
+
+<div class="hero">
+<h1>Discover and Join Amazing Events</h1>
+</div>
+
+<!-- Events -->
+
+<div class="events-section">
+
+<h2>Available Events</h2>
+
+<div id="eventContainer"></div>
+
+</div>
+
+<script type="module" src="./js/main.js"></script>
+
+</body>
+</html>

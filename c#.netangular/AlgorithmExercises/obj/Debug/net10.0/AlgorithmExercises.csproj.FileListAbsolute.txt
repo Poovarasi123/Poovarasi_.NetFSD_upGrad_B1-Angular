@@ -1,0 +1,14 @@
+E:\CTS\.Net Angular\AlgorithmExercises\bin\Debug\net10.0\AlgorithmExercises.exe
+E:\CTS\.Net Angular\AlgorithmExercises\bin\Debug\net10.0\AlgorithmExercises.deps.json
+E:\CTS\.Net Angular\AlgorithmExercises\bin\Debug\net10.0\AlgorithmExercises.runtimeconfig.json
+E:\CTS\.Net Angular\AlgorithmExercises\bin\Debug\net10.0\AlgorithmExercises.dll
+E:\CTS\.Net Angular\AlgorithmExercises\bin\Debug\net10.0\AlgorithmExercises.pdb
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.AssemblyInfoInputs.cache
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.AssemblyInfo.cs
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.csproj.CoreCompileInputs.cache
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.dll
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\refint\AlgorithmExercises.dll
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.pdb
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\AlgorithmExercises.genruntimeconfig.cache
+E:\CTS\.Net Angular\AlgorithmExercises\obj\Debug\net10.0\ref\AlgorithmExercises.dll

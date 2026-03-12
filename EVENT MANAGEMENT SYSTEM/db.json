@@ -1,0 +1,66 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "JavaScript Bootcamp",
+      "description": "5-day intensive JS training",
+      "date": "2026-04-10",
+      "location": "Hyderabad",
+      "capacity": 100,
+      "availableSeats": 95
+    },
+    {
+      "id": "f9ab",
+      "title": "add",
+      "description": "do",
+      "date": "2026-03-13",
+      "location": "chennai",
+      "capacity": 5,
+      "availableSeats": 5
+    }
+  ],
+  "registrations": [
+    {
+      "id": "26e9",
+      "eventId": 1,
+      "participantName": "Poovarasi Mohandass",
+      "email": "poovarasimohandass@gmail.com",
+      "phone": "8838467580"
+    },
+    {
+      "id": "eea6",
+      "eventId": 1,
+      "participantName": "Poovarasi",
+      "email": "poovarasimohandass@gmail.com",
+      "phone": "8838467580"
+    },
+    {
+      "id": "f4fd",
+      "eventId": 1,
+      "participantName": "Poovarasi",
+      "email": "poovarasimohandass@gmail.com",
+      "phone": "8838467580"
+    },
+    {
+      "id": "fbdf",
+      "eventId": 1,
+      "participantName": "Poovarasi",
+      "email": "poovarasimohandass@gmail.com",
+      "phone": "8838467580"
+    },
+    {
+      "id": "c361",
+      "eventId": 1,
+      "participantName": "Poovarasi Mohandass",
+      "email": "poovarasimohandass@gmail.com",
+      "phone": "9159227321"
+    },
+    {
+      "id": "857e",
+      "eventId": 1,
+      "email": "gokul@gmail.com",
+      "phone": "8542876864"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
