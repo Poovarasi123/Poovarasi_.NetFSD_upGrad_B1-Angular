@@ -1,0 +1,14 @@
+E:\CTS\.Net Angular\GovtRulesApp\bin\Debug\net10.0\GovtRulesApp.exe
+E:\CTS\.Net Angular\GovtRulesApp\bin\Debug\net10.0\GovtRulesApp.deps.json
+E:\CTS\.Net Angular\GovtRulesApp\bin\Debug\net10.0\GovtRulesApp.runtimeconfig.json
+E:\CTS\.Net Angular\GovtRulesApp\bin\Debug\net10.0\GovtRulesApp.dll
+E:\CTS\.Net Angular\GovtRulesApp\bin\Debug\net10.0\GovtRulesApp.pdb
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.AssemblyInfoInputs.cache
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.AssemblyInfo.cs
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.csproj.CoreCompileInputs.cache
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.dll
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\refint\GovtRulesApp.dll
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.pdb
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\GovtRulesApp.genruntimeconfig.cache
+E:\CTS\.Net Angular\GovtRulesApp\obj\Debug\net10.0\ref\GovtRulesApp.dll
