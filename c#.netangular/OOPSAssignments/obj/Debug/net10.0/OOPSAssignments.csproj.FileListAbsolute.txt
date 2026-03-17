@@ -1,0 +1,14 @@
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.AssemblyInfoInputs.cache
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.AssemblyInfo.cs
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.csproj.CoreCompileInputs.cache
+E:\CTS\.Net Angular\OOPSAssignments\bin\Debug\net10.0\OOPSAssignments.exe
+E:\CTS\.Net Angular\OOPSAssignments\bin\Debug\net10.0\OOPSAssignments.deps.json
+E:\CTS\.Net Angular\OOPSAssignments\bin\Debug\net10.0\OOPSAssignments.runtimeconfig.json
+E:\CTS\.Net Angular\OOPSAssignments\bin\Debug\net10.0\OOPSAssignments.dll
+E:\CTS\.Net Angular\OOPSAssignments\bin\Debug\net10.0\OOPSAssignments.pdb
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.dll
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\refint\OOPSAssignments.dll
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.pdb
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\OOPSAssignments.genruntimeconfig.cache
+E:\CTS\.Net Angular\OOPSAssignments\obj\Debug\net10.0\ref\OOPSAssignments.dll

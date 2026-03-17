@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CTS\\.Net Angular\\OOPSAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment6\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment6\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment6\\cot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment6\\cot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment6\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment6\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment5\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment5\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment5\\schoolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment5\\schoolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment5\\onlinestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment5\\onlinestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment5\\collegestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment5\\collegestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment4\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment4\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment3\\testorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment3\\testorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment3\\standardorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment3\\standardorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment3\\internationalorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment3\\internationalorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment3\\expressorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment3\\expressorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment2\\testbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment2\\testbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment2\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment2\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment1\\testhealthcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment1\\testhealthcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment1\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment1\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment1\\labtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment1\\labtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\assignment1\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:assignment1\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|e:\\cts\\.net angular\\oopsassignments\\oopsassignments.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA3870A3-DE8C-4071-B679-E6B1D0533849}|OOPSAssignments.csproj|solutionrelative:oopsassignments.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolStudent.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\SchoolStudent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\SchoolStudent.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\SchoolStudent.cs",
+              "RelativeToolTip": "Assignment5\\SchoolStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:38:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Student.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\Student.cs",
+              "RelativeToolTip": "Assignment5\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:37:32.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestStudent.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\TestStudent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\TestStudent.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\TestStudent.cs",
+              "RelativeToolTip": "Assignment5\\TestStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:39:02.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment6\\Chair.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Chair.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment6\\Chair.cs",
+              "RelativeToolTip": "Assignment6\\Chair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:36:56.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cot.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment6\\Cot.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Cot.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment6\\Cot.cs",
+              "RelativeToolTip": "Assignment6\\Cot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:37:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment6\\Furniture.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Furniture.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment6\\Furniture.cs",
+              "RelativeToolTip": "Assignment6\\Furniture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:36:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:28:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OnlineStudent.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\OnlineStudent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\OnlineStudent.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\OnlineStudent.cs",
+              "RelativeToolTip": "Assignment5\\OnlineStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:38:40.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollegeStudent.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\CollegeStudent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\CollegeStudent.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment5\\CollegeStudent.cs",
+              "RelativeToolTip": "Assignment5\\CollegeStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:38:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment4\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Vehicle.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment4\\Vehicle.cs",
+              "RelativeToolTip": "Assignment4\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:35:34.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment4\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "Assignment4\\ElectricCar.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment4\\ElectricCar.cs",
+              "RelativeToolTip": "Assignment4\\ElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:36:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment4\\Car.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Car.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment4\\Car.cs",
+              "RelativeToolTip": "Assignment4\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:35:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestOrder.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\TestOrder.cs",
+              "RelativeDocumentMoniker": "Assignment3\\TestOrder.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\TestOrder.cs",
+              "RelativeToolTip": "Assignment3\\TestOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:35:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StandardOrder.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\StandardOrder.cs",
+              "RelativeDocumentMoniker": "Assignment3\\StandardOrder.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\StandardOrder.cs",
+              "RelativeToolTip": "Assignment3\\StandardOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:34:23.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\Order.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Order.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\Order.cs",
+              "RelativeToolTip": "Assignment3\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:34:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InternationalOrder.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\InternationalOrder.cs",
+              "RelativeDocumentMoniker": "Assignment3\\InternationalOrder.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\InternationalOrder.cs",
+              "RelativeToolTip": "Assignment3\\InternationalOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:34:56.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpressOrder.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\ExpressOrder.cs",
+              "RelativeDocumentMoniker": "Assignment3\\ExpressOrder.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment3\\ExpressOrder.cs",
+              "RelativeToolTip": "Assignment3\\ExpressOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:34:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestBank.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\TestBank.cs",
+              "RelativeDocumentMoniker": "Assignment2\\TestBank.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\TestBank.cs",
+              "RelativeToolTip": "Assignment2\\TestBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:33:46.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Assignment2\\SavingsAccount.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\SavingsAccount.cs",
+              "RelativeToolTip": "Assignment2\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:33:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Assignment2\\CurrentAccount.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\CurrentAccount.cs",
+              "RelativeToolTip": "Assignment2\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:33:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\Account.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Account.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment2\\Account.cs",
+              "RelativeToolTip": "Assignment2\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:32:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestHealthcare.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\TestHealthcare.cs",
+              "RelativeDocumentMoniker": "Assignment1\\TestHealthcare.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\TestHealthcare.cs",
+              "RelativeToolTip": "Assignment1\\TestHealthcare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:32:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\Staff.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Staff.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\Staff.cs",
+              "RelativeToolTip": "Assignment1\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:31:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\Nurse.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Nurse.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\Nurse.cs",
+              "RelativeToolTip": "Assignment1\\Nurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:31:56.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LabTechnician.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\LabTechnician.cs",
+              "RelativeDocumentMoniker": "Assignment1\\LabTechnician.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\LabTechnician.cs",
+              "RelativeToolTip": "Assignment1\\LabTechnician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:32:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\Doctor.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Doctor.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\Assignment1\\Doctor.cs",
+              "RelativeToolTip": "Assignment1\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:31:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OOPSAssignments",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\OOPSAssignments\\OOPSAssignments.csproj",
+              "RelativeDocumentMoniker": "OOPSAssignments.csproj",
+              "ToolTip": "E:\\CTS\\.Net Angular\\OOPSAssignments\\OOPSAssignments.csproj",
+              "RelativeToolTip": "OOPSAssignments.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T10:29:15.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
