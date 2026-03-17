@@ -1,0 +1,14 @@
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.AssemblyInfoInputs.cache
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.AssemblyInfo.cs
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.csproj.CoreCompileInputs.cache
+E:\CTS\.Net Angular\AssignmentExercise2\bin\Debug\net10.0\AssignmentExercise2.exe
+E:\CTS\.Net Angular\AssignmentExercise2\bin\Debug\net10.0\AssignmentExercise2.deps.json
+E:\CTS\.Net Angular\AssignmentExercise2\bin\Debug\net10.0\AssignmentExercise2.runtimeconfig.json
+E:\CTS\.Net Angular\AssignmentExercise2\bin\Debug\net10.0\AssignmentExercise2.dll
+E:\CTS\.Net Angular\AssignmentExercise2\bin\Debug\net10.0\AssignmentExercise2.pdb
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.dll
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\refint\AssignmentExercise2.dll
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.pdb
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\AssignmentExercise2.genruntimeconfig.cache
+E:\CTS\.Net Angular\AssignmentExercise2\obj\Debug\net10.0\ref\AssignmentExercise2.dll
