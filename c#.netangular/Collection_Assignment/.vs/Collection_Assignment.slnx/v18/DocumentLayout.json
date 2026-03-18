@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CTS\\.Net Angular\\Collection_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\linkedlistmusicplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:linkedlistmusicplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\hashsetevent registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:hashsetevent registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\ecommerceproductcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:ecommerceproductcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\dictionarystudent management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:dictionarystudent management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\queuehospitalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:queuehospitalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\stackundofeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:stackundofeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|e:\\cts\\.net angular\\collection_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8310AFC-BD47-46AB-829E-875ADE607DD8}|Collection_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListMusicPlaylist.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\LinkedListMusicPlaylist.cs",
+              "RelativeDocumentMoniker": "LinkedListMusicPlaylist.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\LinkedListMusicPlaylist.cs",
+              "RelativeToolTip": "LinkedListMusicPlaylist.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:30:34.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashSetEvent Registration.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\HashSetEvent Registration.cs",
+              "RelativeDocumentMoniker": "HashSetEvent Registration.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\HashSetEvent Registration.cs",
+              "RelativeToolTip": "HashSetEvent Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:28:03.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECommerceProductCatalog.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\ECommerceProductCatalog.cs",
+              "RelativeDocumentMoniker": "ECommerceProductCatalog.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\ECommerceProductCatalog.cs",
+              "RelativeToolTip": "ECommerceProductCatalog.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:25:11.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DictionaryStudent Management.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\DictionaryStudent Management.cs",
+              "RelativeDocumentMoniker": "DictionaryStudent Management.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\DictionaryStudent Management.cs",
+              "RelativeToolTip": "DictionaryStudent Management.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:26:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueHospitalSystem.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\QueueHospitalSystem.cs",
+              "RelativeDocumentMoniker": "QueueHospitalSystem.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\QueueHospitalSystem.cs",
+              "RelativeToolTip": "QueueHospitalSystem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:29:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackUndoFeature.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\StackUndoFeature.cs",
+              "RelativeDocumentMoniker": "StackUndoFeature.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\StackUndoFeature.cs",
+              "RelativeToolTip": "StackUndoFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:28:57.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\Collection_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\Collection_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:11:35.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
