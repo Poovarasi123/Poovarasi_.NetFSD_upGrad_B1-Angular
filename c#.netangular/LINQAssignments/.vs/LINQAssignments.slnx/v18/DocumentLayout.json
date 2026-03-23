@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CTS\\.Net Angular\\LINQAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|e:\\cts\\.net angular\\linqassignments\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA0F2FB-4E3C-44C0-BD5B-6D1934C3F27E}|LINQAssignments.csproj|solutionrelative:assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:48:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment2.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment2.cs",
+              "RelativeDocumentMoniker": "Assignment2.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment2.cs",
+              "RelativeToolTip": "Assignment2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:32:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment4.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment4.cs",
+              "RelativeDocumentMoniker": "Assignment4.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment4.cs",
+              "RelativeToolTip": "Assignment4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:35:17.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment7.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment7.cs",
+              "RelativeDocumentMoniker": "Assignment7.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment7.cs",
+              "RelativeToolTip": "Assignment7.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:37:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment5.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment5.cs",
+              "RelativeDocumentMoniker": "Assignment5.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment5.cs",
+              "RelativeToolTip": "Assignment5.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:36:24.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment10.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment10.cs",
+              "RelativeDocumentMoniker": "Assignment10.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment10.cs",
+              "RelativeToolTip": "Assignment10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:39:50.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment1.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment1.cs",
+              "RelativeDocumentMoniker": "Assignment1.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment1.cs",
+              "RelativeToolTip": "Assignment1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:23:48.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assignment6.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment6.cs",
+              "RelativeDocumentMoniker": "Assignment6.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment6.cs",
+              "RelativeToolTip": "Assignment6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:37:08.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Assignment15.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment15.cs",
+              "RelativeDocumentMoniker": "Assignment15.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment15.cs",
+              "RelativeToolTip": "Assignment15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:41:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment9.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment9.cs",
+              "RelativeDocumentMoniker": "Assignment9.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment9.cs",
+              "RelativeToolTip": "Assignment9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:39:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assignment8.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment8.cs",
+              "RelativeDocumentMoniker": "Assignment8.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment8.cs",
+              "RelativeToolTip": "Assignment8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:38:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assignment3.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment3.cs",
+              "RelativeDocumentMoniker": "Assignment3.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\LINQAssignments\\Assignment3.cs",
+              "RelativeToolTip": "Assignment3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:34:00.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

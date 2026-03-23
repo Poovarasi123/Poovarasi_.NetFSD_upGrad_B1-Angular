@@ -1,0 +1,14 @@
+E:\CTS\.Net Angular\LINQAssignments\bin\Debug\net10.0\LINQAssignments.exe
+E:\CTS\.Net Angular\LINQAssignments\bin\Debug\net10.0\LINQAssignments.deps.json
+E:\CTS\.Net Angular\LINQAssignments\bin\Debug\net10.0\LINQAssignments.runtimeconfig.json
+E:\CTS\.Net Angular\LINQAssignments\bin\Debug\net10.0\LINQAssignments.dll
+E:\CTS\.Net Angular\LINQAssignments\bin\Debug\net10.0\LINQAssignments.pdb
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.AssemblyInfoInputs.cache
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.AssemblyInfo.cs
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.csproj.CoreCompileInputs.cache
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.dll
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\refint\LINQAssignments.dll
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.pdb
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\LINQAssignments.genruntimeconfig.cache
+E:\CTS\.Net Angular\LINQAssignments\obj\Debug\net10.0\ref\LINQAssignments.dll
