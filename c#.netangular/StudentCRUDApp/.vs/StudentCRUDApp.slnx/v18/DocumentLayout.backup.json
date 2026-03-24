@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|e:\\cts\\.net angular\\studentcrudapp\\libraryprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|solutionrelative:libraryprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|e:\\cts\\.net angular\\studentcrudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|e:\\cts\\.net angular\\studentcrudapp\\employeeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|solutionrelative:employeeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|e:\\cts\\.net angular\\studentcrudapp\\studentprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ACD53A-E76F-4325-BF47-810AC41F0DB6}|StudentCRUDApp.csproj|solutionrelative:studentprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryProgram.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\LibraryProgram.cs",
+              "RelativeDocumentMoniker": "LibraryProgram.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\LibraryProgram.cs",
+              "RelativeToolTip": "LibraryProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:30:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentProgram.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\StudentProgram.cs",
+              "RelativeDocumentMoniker": "StudentProgram.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\StudentProgram.cs",
+              "RelativeToolTip": "StudentProgram.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:24:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeProgram.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\EmployeeProgram.cs",
+              "RelativeDocumentMoniker": "EmployeeProgram.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\EmployeeProgram.cs",
+              "RelativeToolTip": "EmployeeProgram.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:22:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTS\\.Net Angular\\StudentCRUDApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:49:33.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
