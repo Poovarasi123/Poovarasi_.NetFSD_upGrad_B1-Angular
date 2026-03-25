@@ -10,7 +10,9 @@ class Program
             Console.WriteLine("1. Student Management");
             Console.WriteLine("2. Employee Management");
             Console.WriteLine("3. Library Management");
-            Console.WriteLine("4. Exit");
+            Console.WriteLine("4. Product Inventory");
+            Console.WriteLine("5. Order Management");
+            Console.WriteLine("6. Exit");
 
             Console.Write("Choose option: ");
             int choice;
@@ -35,6 +37,14 @@ class Program
                     break;
 
                 case 4:
+                    ProductProgram.Run();
+                    break;
+
+                case 5:
+                    OrderProgram.Run();
+                    break;
+
+                case 6:
                     return;
 
                 default:

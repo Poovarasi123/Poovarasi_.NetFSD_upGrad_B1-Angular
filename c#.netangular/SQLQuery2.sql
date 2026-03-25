@@ -50,3 +50,24 @@ CREATE TABLE Books (
     Price DECIMAL(10,2)
 );
 
+USE SchoolDB;
+
+CREATE TABLE Products (
+    ProductId INT PRIMARY KEY IDENTITY,
+    ProductName NVARCHAR(100),
+    Price DECIMAL(10,2),
+    Stock INT
+);
+
+CREATE TABLE Orders (
+    OrderId INT PRIMARY KEY IDENTITY,
+    CustomerName NVARCHAR(100),
+    TotalAmount DECIMAL(10,2)
+);
+
+CREATE TABLE OrderItems (
+    ItemId INT PRIMARY KEY IDENTITY,
+    OrderId INT,
+    ProductName NVARCHAR(100),
+    Quantity INT
+);
