@@ -1,0 +1,24 @@
+﻿@model HandsOnMVCModels.Models.Product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-primary">Product Details</h1>
+        <pre class="bg-light p-3 border">
+            Id: @Model.ProductId
+            Name: @Model.Name
+            Price: @Model.Price
+            Description: @Model.Description
+        </pre>
+    </div>
+</body>
+</html>
