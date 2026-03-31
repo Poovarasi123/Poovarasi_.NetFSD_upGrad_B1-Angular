@@ -1,0 +1,17 @@
+﻿@model ProjectStructure.Models.User
+
+<h2>Register</h2>
+
+<form method="post">
+    Name: <input asp-for="Name" /> <span asp-validation-for="Name"></span><br />
+
+    Email: <input asp-for="Email" /> <span asp-validation-for="Email"></span><br />
+
+    Password: <input asp-for="Password" type="password" />
+    <span asp-validation-for="Password"></span><br />
+
+    Confirm Password: <input asp-for="ConfirmPassword" type="password" />
+    <span asp-validation-for="ConfirmPassword"></span><br />
+
+    <button type="submit">Register</button>
+</form>
