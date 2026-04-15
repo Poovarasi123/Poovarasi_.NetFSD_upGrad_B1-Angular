@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="API Gateway/API Gateway.csproj" />
+  <Project Path="BookingService/BookingService.csproj" />
+  <Project Path="FlightService/FlightService.csproj" />
+  <Project Path="PassengerService/PassengerService.csproj" />
+</Solution>
